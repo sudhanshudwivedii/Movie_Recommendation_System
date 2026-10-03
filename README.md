@@ -55,4 +55,4 @@ This project uses [The Movies Dataset](https://www.kaggle.com/datasets/rounakban
 - Add evaluation metrics
 
 ## Author
-[Your Name] | [GitHub](https://github.com/sudhanshudwivedii) | [LinkedIn](paste-your-linkedin-link)
+Sudhanshu Dwivedi | [GitHub](https://github.com/sudhanshudwivedii) | [LinkedIn](https://www.linkedin.com/in/sudhanshu-dwivedi-88727b322/)
